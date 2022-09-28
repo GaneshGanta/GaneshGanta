@@ -49,7 +49,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/GaneshGanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GaneshGanta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ganta-ganesh-b01684219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GaneshGanta" height="30" width="40" /></a>
 
 
 </p>
