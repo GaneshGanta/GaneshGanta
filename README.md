@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Ganta.</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ganeshganta&label=Profile%20views&color=0e75b6&style=flat](https://th.bing.com/th/id/OIP.b0YTy9Ik5GIsTa1b_lYeOQHaEK?w=303&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)" alt="ganeshganta" /> </p>
+<h5 align="center">A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.</h5>
 
 
 - 🔭 I’m currently pursuing **Java Backend Development.**
