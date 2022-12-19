@@ -46,5 +46,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/GaneshGanta/github-readme-activity-graph"><img alt="GaneshGanta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GaneshGanta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/GaneshGanta/github-readme-activity-graph"><img alt="GaneshGanta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GaneshGanta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+ -->
+ 
+ ## 🏆 GitHub Trophies
+
+<br/>
+<img align="center" alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=TusharKadam7671"/> 
+<br/>
+
+<hr color="blue"/>
